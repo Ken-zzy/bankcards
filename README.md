@@ -1,4 +1,4 @@
-/**
+
  * Credit Card Validation Regex Explanation:
  *
  * 1. Visa (/^4\d{12}(\d{3})?$/)
@@ -20,4 +20,4 @@
  *    - Starts with 5060, 5061, 5078, or 6500
  *    - Length: 16 to 19 digits
  *    - Example: 5060123456789012, 6500123456789012345
- */
+ 
